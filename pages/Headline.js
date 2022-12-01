@@ -1,6 +1,6 @@
 import styles from "../styles/Home.module.css";
 
-export function Headline(props) {
+export default function Headline(props) {
   console.log(props);
 
   return (
