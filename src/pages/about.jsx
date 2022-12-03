@@ -8,9 +8,7 @@ export default function Home() {
   return (
     <div className={classes.container}>
       <Header />
-
       <Main page="about" />
-
       <Footer />
     </div>
   );
